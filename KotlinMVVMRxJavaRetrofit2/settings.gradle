@@ -1,0 +1,2 @@
+rootProject.name = "KotlinMVVMRxJavaRetrofit2"
+include ':app'
